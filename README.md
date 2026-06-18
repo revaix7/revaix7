@@ -10,10 +10,7 @@
 
 - 🌱 Currently learning React, Next.js, and back-end development
 
-
 - 📫 You can reach me at **xmala086@uottawa.ca**
-
-<img src="https://komarev.com/ghpvc/?username=revaix7" alt="revaix7" />
 
 <h3>Let's connect!</h3>
 <p align="left">
