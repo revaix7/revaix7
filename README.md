@@ -10,7 +10,6 @@
 
 - 🌱 Currently learning React, Next.js, and back-end development
 
-- 🌎 Check out my website **https://revaix7.github.io**
 
 - 📫 You can reach me at **xmala086@uottawa.ca**
 
