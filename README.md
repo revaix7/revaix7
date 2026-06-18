@@ -6,7 +6,7 @@
 
 - 🧑‍🏫 I taught coding, 3D modeling, Micro:bit, and Arduino to kids at the **uOttawa Engineering camps**
 
-- ⚡ In my own time I build web apps and games — like **Drunk Strava** (a competitive running leaderboard) and a **Race Planner** that drops teams at random spots and challenges them to reach the finish on little to no budget
+- ⚡ In my own time I build web apps and games, like **Drunk Strava** (a competitive running leaderboard) and a **Race Planner** that drops teams at random spots and challenges them to reach the finish on little to no budget
 
 - 🌱 Currently learning React, Next.js, and back-end development
 
